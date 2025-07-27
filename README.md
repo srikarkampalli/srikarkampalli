@@ -17,7 +17,7 @@
 
 - 📫 My Email Address: **srikarkampalli@gmail.com**
 
-- 🎵 Favorite Album: [Madvillainy](Madvillainy)
+- 🎵 Favorite Album: Madvillainy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
