@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikarkampalli" alt="srikarkampalli" /></a> </p>
 
-- 🔭 I’m currently working on **graph-neural networks.**
+- 🔭 I’m currently working on **GNNs, drug design, and biochemical modelling**.
 
 - 🌱 I’m currently learning about **Generative AI.**
 
