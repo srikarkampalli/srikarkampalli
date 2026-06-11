@@ -17,7 +17,7 @@
 
 - 📫 My Email Address: **srikarkampalli@gmail.com**
 
-- 🎵 Favorite Album: Travelling without Moving
+- 🎵 Favorite Album: 2014 Forest Hills Drive
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
