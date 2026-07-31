@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Srikar Kampalli</h1>
-<h3 align="center">A ML/AI developer</h3>
+<h3 align="center">Computational neuroscience/computer architecture</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikarkampalli&label=Profile%20views&color=0e75b6&style=flat" alt="srikarkampalli" /> </p>
 
-- 🔭 I’m currently working on **GNNs, drug design, and biochemical modelling**.
+- 🔭 I’m currently working on **modeling of neural systems, memristor models**.
 
-- 🌱 I’m currently learning about **Generative AI.**
+- 🌱 I’m currently learning about **memristors**.
 
-- 👯 I’m looking to collaborate on **exciting projects with LLMs.**
+- 👯 I’m looking to collaborate on **neurologically-inspired algorithms**.
 
-- 🤝 I’m looking for help with **advanced fine-tuning methods.**
+- 🤝 I’m looking for help with **circuit modeling.**
 
-- 💬 Ask me about **PyTorch, LLMs, and NumPy**
+- 💬 Ask me about **PyTorch, C, and FPGAs**.
 
 - 📫 My Email Address: **srikarkampalli@gmail.com**
 
