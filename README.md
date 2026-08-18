@@ -15,7 +15,7 @@
 
 - 📫 My Email Address: **srikarkampalli@gmail.com**
 
-- 🎵 Favorite Album: 2014 Forest Hills Drive
+- 🎵 Favorite Album: The Blueprint
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
