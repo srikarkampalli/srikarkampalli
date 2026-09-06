@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikarkampalli&label=Profile%20views&color=0e75b6&style=flat" alt="srikarkampalli" /> </p>
 
-- 🔭 I’m currently working on **modeling of neural systems, memristor models**.
+- 🔭 I’m currently working on **neuron modeling and memristive systems**.
 
 - 🌱 I’m currently learning about **memristors**.
 
